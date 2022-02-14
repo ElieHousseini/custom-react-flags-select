@@ -333,10 +333,6 @@ Builds SVG components to `src/components/Flags/Countries/
 yarn start
 ```
 
-## v1 Documentation
-
-[React Flags Select v1](https://github.com/ElieHousseini/custom-react-flags-select/blob/main/v1.md)
-
 ## License
 
 This project is distributed under the MIT license.

@@ -4,9 +4,8 @@ A React library that provides a customizable SVG flags select components and sta
 
 ## Screenshots:
 
-![First](./screenshots/1.png)
-![Second](./screenshots/2.png)
-![Third](./screenshots/3.png)
+![First](./screenshots/2.png)
+![Second](./screenshots/3.png)
 
 ## Installation
 

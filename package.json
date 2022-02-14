@@ -1,6 +1,6 @@
 {
   "name": "custom-react-flags",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "description": "custom-react-flags React component",
   "main": "build/index.js",
   "module": "build/index.esm.js",
